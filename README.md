@@ -21,7 +21,13 @@ Udostępnienie API do tworzenia, przeglądania, edycji i usuwania zadań użytko
 
 ## Uruchomienie
 
-Instrukcja zostanie uzupełniona po dodaniu projektu aplikacji.
+```bash
+git clone https://github.com/gudutama/PZL-Trofimuk-Nazarii.git
+cd PZL-Trofimuk-Nazarii
+dotnet run --project src/TaskFlow.Api
+```
+
+Adres aplikacji jest wyświetlany w terminalu po uruchomieniu. Przykładowy endpoint z szablonu projektu: `/weatherforecast`.
 
 ## Autor
 
