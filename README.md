@@ -15,7 +15,7 @@ Udostępnienie API do tworzenia, przeglądania, edycji i usuwania zadań użytko
 
 ## Wymagania środowiskowe
 
-- .NET SDK: 9.0.100
+- .NET SDK: 10.0.403
 - Git
 - IDE: Visual Studio / Rider / VS Code
 
